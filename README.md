@@ -1,8 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## About project
+# About project
 
 This is a web app that signup/signin users, lets users create their your project plan.
 This will let every user know which user is added and what projects are added
